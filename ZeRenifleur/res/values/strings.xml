@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ze Renifleur</string>
+    <string name="liste_ip">Liste des adresses ip conectées:\n</string>
+    
+
+</resources>
